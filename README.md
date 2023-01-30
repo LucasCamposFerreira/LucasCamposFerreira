@@ -16,6 +16,6 @@
 -
 ![Lucas's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasCamposFerreira&show_icons=true&theme=dark)
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCamposFerreira&show_icons=true&theme=dark)
-![Lucas's GitHub contribuitions](https://github-readme-activity-graph.cyclic.app/graph?username=LucasCamposFerreira&theme=dark)
+
 
 
