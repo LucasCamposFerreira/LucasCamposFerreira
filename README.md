@@ -10,3 +10,5 @@
 
 | <a href="https://github.com/LucasCamposFerreira/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasCamposFerreira&theme=dark&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lucas's github stats" /></a> | <a href="https://github.com/LucasCamposFerreira/github-readme-status"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCamposFerreira&theme=dark&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
