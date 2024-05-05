@@ -2,7 +2,6 @@
 
 -> 🔭 Trabalho com front-end na <a href="https://www.linkedin.com/company/hinova-conecta/mycompany/" target="_blank">Hinova Conecta<a/>
 #
-
 ### Fale comigo por aqui!
   
 <a href="https://www.instagram.com/lucascamposferreira_/" target="_blank"><img height="20" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><a/>  <a href="mailto:20lucas.campos05@gmail.com.br"><img height="20" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.linkedin.com/in/lucas-campos-ferreira-378969235/" target="_blank"><img height="20" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/> 
