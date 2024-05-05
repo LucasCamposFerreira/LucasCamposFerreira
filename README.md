@@ -1,8 +1,6 @@
 # E aí, sou Lucas Campos 👍 
 
 -> 🔭 Trabalho com front-end na <a href="https://www.linkedin.com/company/hinova-conecta/mycompany/" target="_blank">Hinova Conecta<a/>
-
- -> 🌱 Aprendendo Vue e Bootstrap
 #
 
 ### Fale comigo por aqui!
